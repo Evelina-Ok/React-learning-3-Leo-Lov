@@ -7,4 +7,13 @@
 
   max-width: 1280px;
 
+
 }
+
+.teamStyle {
+   display: grid;
+  grid-template-columns: repeat(4, 1fr);
+padding-top: 3rem;
+
+}
+

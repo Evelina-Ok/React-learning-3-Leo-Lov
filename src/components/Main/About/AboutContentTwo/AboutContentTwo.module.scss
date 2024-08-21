@@ -1,0 +1,27 @@
+.aboutStyle {
+
+    display: flex;
+    margin: auto;
+    border: 9px solid #2C3B6F;
+    max-width: 1200px;
+
+    h2 {
+    font-family: 'Jura';
+    color: var(--Blue);
+    text-align: center;
+    padding-bottom: 4vw;
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 2vw;
+    }
+
+    p {
+        font-family: 'Inter';
+        padding: 0 4rem;
+       
+    }
+
+    img {
+        border-left: 9px solid #2C3B6F;
+    }
+ }

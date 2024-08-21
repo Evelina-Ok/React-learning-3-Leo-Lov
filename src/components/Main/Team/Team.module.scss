@@ -1,4 +1,8 @@
 .teamStyle {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    h3 {
+        padding: 1rem 0;
+    }
+    p {
+        padding: 0 3rem;
+    }
 }
